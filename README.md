@@ -3,4 +3,4 @@ In the begining of my coding bootcamp. I studied about HTML & CSS in the class. 
 
 # Deployment
 This project is deployed to github environmet, you can access the web app below:
-Click https://badaibeibeh.github.io/attapage/ to view the project
+Click https://badaibeibeh.github.io/gucci-clone/ to view the project
